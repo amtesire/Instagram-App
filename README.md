@@ -14,7 +14,7 @@ Users can sign up, login, view and post photos, search and follow other users.
 <img src="https://raw.githubusercontent.com/amtesire/Instagram-App/master/static/images/instagram.png">
  
  ###### user profile
- <img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/profile.png"> 
+ <img src="https://raw.githubusercontent.com/amtesire/Instagram-App/master/static/images/profile.png"> 
 
 
  
