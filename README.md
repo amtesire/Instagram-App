@@ -37,11 +37,11 @@ To get the project .......
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
-cd insta-lite pip install -r requirements.txt 
+cd instagram-App pip install -r requirements.txt 
 ```
 ##### Install and activate Virtual  
  ```bash 
-- python3 -m venv virtual - source virtual/bin/activate  
+- python3.6 -m venv virtual - source virtual/bin/activate  
 ```  
 ##### Install Dependencies  
  ```bash 
