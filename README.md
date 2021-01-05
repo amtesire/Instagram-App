@@ -1,17 +1,17 @@
-# insta-lite
+# Instagram-App
 
->[Owiti-Charles](https://github.com/Owiti-Charles)  
+>[amtesire](https://github.com/amtesire)  
   
 # Description  
 This is a clone of  Instagram where people share their  images and videos for other users to view. 
 Users can sign up, login, view and post photos, search and follow other users.
 ##  Live Link  
- Click [View Site](https://instalite.herokuapp.com/)  to visit the site
+ Click [View Site]()  to visit the site
   
 ## Screenshots 
 ###### Home page
  
-<img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/instagram.png">
+<img src="https://raw.githubusercontent.com/amtesire/Instagram-App/master/static/images/instagram.png">
  
  ###### user profile
  <img src="https://raw.githubusercontent.com/Owiti-Charles/insta-lite/master/static/images/profile.png"> 
@@ -33,7 +33,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/insta-lite.git 
+ https://github.com/amtesire/Instagram-App.git 
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
@@ -82,9 +82,11 @@ Open the application on your browser `127.0.0.1:8000`.
 * There are no known bugs currently but pull requests are allowed incase you spot a bug  
   
 ## Contact Information   
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]  
+If you have any question or contributions, please email me at [tesiregisele@gmail.com]  
   
 ## License 
+MIT License
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
-* Copyright (c) 2019 **Owiti Charles**
+Licensed under MIT License
+  
+* Copyright (c) 2020 **Tesire Gisele**
